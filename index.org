@@ -1,0 +1,9 @@
+#+title: Index Models
+#+author: Matt Brigida, Ph.D.
+#+email: matthew.brigida@sunypoly.edu
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+
+#+BEGIN_COMMENT
+Case involves having an analyst calculate the abnormal returns for stocks over some event.  Highlights the necessity to calculate what we would expect to happen had the event not occurred.
+#+END_COMMENT
