@@ -7,3 +7,15 @@
 #+BEGIN_COMMENT
 Case involves having an analyst calculate the abnormal returns for stocks over some event.  Highlights the necessity to calculate what we would expect to happen had the event not occurred.
 #+END_COMMENT
+
+* Background
+
+You are an analyst at a large commercial bank.  
+
+* Problem
+
+You suspect that the COVID-19 crisis had a larger negative impact on certain sectors of the economy, particularly energy.  Alternatively, other sectors may not have been as adversely impacted.  How are you going to test your hypothesis?
+
+* Analysis
+
+
