@@ -1,4 +1,4 @@
-#+title: Index Models
+#+title: FIN 411:  Event Study
 #+author: Matt Brigida, Ph.D.
 #+email: matthew.brigida@sunypoly.edu
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
@@ -10,7 +10,7 @@ Case involves having an analyst calculate the abnormal returns for stocks over s
 
 * Background
 
-You are an analyst at a large commercial bank.  
+You are an analyst at a large commercial bank, and it is a week after the outbreak of the COVID-19 pandemic. Management obviously wants to cut back on lending, however also wants to identify industries where the bank can gain market share. 
 
 * Problem
 
@@ -18,4 +18,5 @@ You suspect that the COVID-19 crisis had a larger negative impact on certain sec
 
 * Analysis
 
+You can use any tool you want to calculate abnormal returns.  See this Colab notebook for a implementation in Python:  
 
